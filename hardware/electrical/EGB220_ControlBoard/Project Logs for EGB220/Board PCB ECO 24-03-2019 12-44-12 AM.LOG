@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=SENS_MUX_A Pin=U1-22
+Removed Pin From Net: NetName=SENS_MUX_D Pin=U1-25
+Removed Pin From Net: NetName=SENS_MUX_B Pin=U1-26
+Added Pin To Net: NetName=SENS_MUX_D Pin=U1-22
+Added Pin To Net: NetName=SENS_MUX_B Pin=U1-25
+Added Pin To Net: NetName=SENS_MUX_A Pin=U1-26

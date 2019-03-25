@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=+5 Pin=SW1-2
+Removed Member From Class: ClassName=Control Member=SW1
+Change Component Footprint: Designator=L1 Old Footprint=J1-0603 New Footprint=0603
+Change Component Footprint: Designator=L2 Old Footprint=J1-0603 New Footprint=0603
+Added Pin To Net: NetName=+5 Pin=J1-1
+Added Pin To Net: NetName=+5 Pin=U1-2
+Added Pin To Net: NetName=+5 Pin=U1-7

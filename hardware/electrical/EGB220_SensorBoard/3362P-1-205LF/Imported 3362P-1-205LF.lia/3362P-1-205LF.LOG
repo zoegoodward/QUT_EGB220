@@ -1,0 +1,31 @@
+PCAD Importer Log
+Project : 3362P-1-205LF.LibPkg
+
+Section : R:\Users\Jonn\Desktop\Zoe\EGB220_SensorBoard\3362P-1-205LF\3362P-1-205LF.lia
+    Section : PCB Library - 3362P-1-205LF.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token 3362P-1-205LF On Line 126
+            Warning - 1 : Skipping Token attachedSymbol On Line 198
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - 3362P-1-205LF.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 101
+            Warning - 1 : Skipping Token layerContents On Line 105
+            Warning - 1 : Skipping Token layerContents On Line 111
+            Warning - 1 : Skipping Token layerContents On Line 115
+            Warning - 1 : Skipping Token isVisible On Line 174
+            Warning - 1 : Skipping Token isVisible On Line 175
+        EndSection
+
+        Section : Generating SCH Library - 3362P-1-205LF.SchLib
+        EndSection
+    EndSection
+EndSection
