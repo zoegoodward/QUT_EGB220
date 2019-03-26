@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: D:\Personal Files\Documents\git\QUT\QUT_EGB220\hardware\electrical\EGB220_SensorBoard\Board.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
